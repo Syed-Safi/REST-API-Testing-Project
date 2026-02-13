@@ -5,9 +5,8 @@
     <classes>
       <class name="com.tests.CustomerAPITest">
         <methods>
-          <include name="getCustomerDetails"/>
-          <include name="createCustomer"/>
           <include name="setup"/>
+          <include name="updateCustomer"/>
         </methods>
       </class> <!-- com.tests.CustomerAPITest -->
     </classes>
